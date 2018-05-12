@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7613
     wikipedia: http://fi.wikipedia.org/wiki/Emil_Nervander
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17812#Vanhoista-k-tk-ist-
 gutenberg_issued: '2006-02-21'
 gutenberg_type: Text
 identifiers:
